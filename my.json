@@ -202,12 +202,13 @@
       "coordinates": [50.355436, 30.929292]
     },
     "properties": {
-      "flush": false,
+      "flush": true,
       "child_ed": false,
       "vault": false,
-      "description": "",
-      "title": "Farewell Bend",
-      "marker-size": "small"
+      "description": "test trc",
+      "title": "trc",
+      "marker-size": "small",
+      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
     }
   }, {
     "type": "Feature",
