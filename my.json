@@ -20,14 +20,14 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [30.940155, 50.361495]
+      "coordinates": [50.366314, 30.940594]
     },
     "properties": {
       "flush": false,
-      "child_ed": false,
-      "vault": true,
+      "child_ed": true,
+      "vault": false,
       "description": "3",
-      "title": "4",
+      "title": "Школа №6",
       "marker-size": "small",
       "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
     }
