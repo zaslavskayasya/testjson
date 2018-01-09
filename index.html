@@ -118,72 +118,83 @@
                     <p class="infr-text">
                         <?=___('ЖК «Graphite» имеет очень выгодное расположение и строится в центре Борисполя возле городского парка культуры и отдыха. До главной артерии города, ул. Киевский шлях и остановки на Киев - 100м. А прямо рядом с ЖК расположены супермаркеты, аптеки, рынки, учебные заведения и сервисные бытовые службы.','ЖК «Graphite» має дуже вигідне розташування і будується у центрі Борисполя біля міського парку культури та відпочинку. До головної артерії міста, вул. Київський шлях та зупинки на Київ – 100м. А зовсім поруч з ЖК розташовані супермаркети, аптеки, ринки, навчальні заклади та сервісні побутові служби.')?>
                     </p>
+                    <div id="buttons">
+
+                        <input type="checkbox" name="filter" id="shower" class='chk-btn'>
+                        <label for='shower'>Shower</label>
+
+                        <input type="checkbox" name="filter" id="flush" class='chk-btn'>
+                        <label for='flush'>Flush Toilet</label>
+
+                        <input type="checkbox" name="filter" id="vault" class='chk-btn'>
+                        <label for='vault'>Vault Toilet</label>
+                        <br>
+                    </div>
+
+                    <!--<ul class="infr-list"  id="buttons">-->
+                        <!--<li class="infr-item infr-item1">-->
+                                  <!--<span class="infr-item-item ">-->
+                                     <!--<input type="checkbox" name="filter" id="child_education" class='chk-btn'>-->
+                                       <!--<label for='child_education'>-->
+                                           <!--<img class="" src="/img/house.svg">-->
+                                       <!--</label>-->
+                                        <!--<p>Саді<?=___('Детские сады и школы','Дитячі садки та школи')?> </p>-->
+                                     <!--</span>-->
+                        <!--</li>-->
+                        <!--<li class="infr-item infr-item1">-->
+                                  <!--<span class="infr-item-item ">-->
+                                       <!--<input type="checkbox" name="filter" id="shops_entertainment" class='chk-btn'>-->
+                                      <!--<label for='shops_entertainment'>-->
+                                           <!--<input type="checkbox" name="filter" id="flush" class='chk-btn'>-->
+                                            <!--<label for='flush'>-->
+                                                <!--<img style="width: 39px" src="/img/shop.svg">-->
+                                            <!--</label>-->
+                                      <!--</label>-->
+                                        <!--<p>2<?=___('Торговые и развлекательные центры','Торгові та розважальні центри')?> </p>-->
+                                     <!--</span>-->
+                        <!--</li>-->
+                        <!--<li class="infr-item infr-item1">-->
+                                  <!--<span class="infr-item-item ">-->
+                                            <!--<input type="checkbox" name="filter" id="vault" class='chk-btn'>-->
+                                        <!--<label for='vault'>-->
+                                    <!--<img style="" src="/img/shopping-cart.png">-->
+                                        <!--</label>-->
+                                        <!--<p>3<?=___('Супермаркеты, магазины и рынки','Супермаркети, магазини, ринки')?> </p>-->
+                                     <!--</span>-->
+                        <!--</li>-->
+                        <!--<li class="infr-item infr-item1">-->
+                                  <!--<span class="infr-item-item ">-->
+                                    <!--<img  style="width: 39px" src="/img/medicine.svg">-->
+                                        <!--<p><?=___('Медицинские центры и аптеки','Медичні центри та аптеки')?> </p>-->
+                                     <!--</span>-->
+                        <!--</li>-->
+                        <!--<li class="infr-item infr-item1">-->
+                                  <!--<span class="infr-item-item ">-->
+                                    <!--<img  src="/img/bus.svg">-->
+                                        <!--<p><?=___('Остановка транспорта на Киев (100м)','Зупинка транспорту на Київ (100м)')?> </p>-->
+                                     <!--</span>-->
+                        <!--</li>-->
+                        <!--<li class="infr-item infr-item1">-->
+                                  <!--<span class="infr-item-item ">-->
+                                    <!--<img style="width: 39px" src="/img/landscape.png">-->
+                                        <!--<p><?=___('Парки и зоны отдыха','Парки та зони відпочинку')?> </p>-->
+                                     <!--</span>-->
+                        <!--</li>-->
+                        <!--<li class="infr-item infr-item1">-->
+                                  <!--<span class="infr-item-item ">-->
+                                    <!--<img  src="/img/house-reforms.png">-->
+                                        <!--<p><?=___('Службы быта и сервиса','Сервісні служби побуту')?> </p>-->
+                                     <!--</span>-->
+                        <!--</li>-->
+                        <!--<li class="infr-item infr-item1">-->
+                                  <!--<span class="infr-item-item ">-->
+                                      <!--<img style=" width: 39px" src="/img/bank.png">-->
+                                        <!--<p><?=___('Банки и почтовые службы','Банки й поштові служби')?> </p>-->
+                                     <!--</span>-->
+                        <!--</li>-->
 
 
-                    <ul class="infr-list"  id="buttons">
-                        <li class="infr-item infr-item1">
-                                  <span class="infr-item-item ">
-                                     <input type="checkbox" name="filter" id="child_education" class='chk-btn'>
-                                       <label for='child_education'>
-                                           <img class="" src="/img/house.svg">
-                                       </label>
-                                        <p>Саді<?=___('Детские сады и школы','Дитячі садки та школи')?> </p>
-                                     </span>
-                        </li>
-                        <li class="infr-item infr-item1">
-                                  <span class="infr-item-item ">
-                                       <input type="checkbox" name="filter" id="shops_entertainment" class='chk-btn'>
-                                      <label for='shops_entertainment'>
-                                           <input type="checkbox" name="filter" id="flush" class='chk-btn'>
-                                            <label for='flush'>
-                                                <img style="width: 39px" src="/img/shop.svg">
-                                            </label>
-                                      </label>
-                                        <p>2<?=___('Торговые и развлекательные центры','Торгові та розважальні центри')?> </p>
-                                     </span>
-                        </li>
-                        <li class="infr-item infr-item1">
-                                  <span class="infr-item-item ">
-                                            <input type="checkbox" name="filter" id="vault" class='chk-btn'>
-                                        <label for='vault'>
-                                    <img style="" src="/img/shopping-cart.png">
-                                        </label>
-                                        <p>3<?=___('Супермаркеты, магазины и рынки','Супермаркети, магазини, ринки')?> </p>
-                                     </span>
-                        </li>
-                        <li class="infr-item infr-item1">
-                                  <span class="infr-item-item ">
-                                    <img  style="width: 39px" src="/img/medicine.svg">
-                                        <p><?=___('Медицинские центры и аптеки','Медичні центри та аптеки')?> </p>
-                                     </span>
-                        </li>
-                        <li class="infr-item infr-item1">
-                                  <span class="infr-item-item ">
-                                    <img  src="/img/bus.svg">
-                                        <p><?=___('Остановка транспорта на Киев (100м)','Зупинка транспорту на Київ (100м)')?> </p>
-                                     </span>
-                        </li>
-                        <li class="infr-item infr-item1">
-                                  <span class="infr-item-item ">
-                                    <img style="width: 39px" src="/img/landscape.png">
-                                        <p><?=___('Парки и зоны отдыха','Парки та зони відпочинку')?> </p>
-                                     </span>
-                        </li>
-                        <li class="infr-item infr-item1">
-                                  <span class="infr-item-item ">
-                                    <img  src="/img/house-reforms.png">
-                                        <p><?=___('Службы быта и сервиса','Сервісні служби побуту')?> </p>
-                                     </span>
-                        </li>
-                        <li class="infr-item infr-item1">
-                                  <span class="infr-item-item ">
-                                      <img style=" width: 39px" src="/img/bank.png">
-                                        <p><?=___('Банки и почтовые службы','Банки й поштові служби')?> </p>
-                                     </span>
-                        </li>
-
-
-                    </ul>
+                    <!--</ul>-->
                 </div>
 
 
@@ -286,7 +297,7 @@
         map_options = {
             zoom: 14,
             mapTypeId: google.maps.MapTypeId.HYBRID,
-            center: {lat:  50.357510, lng: 30.944644}
+            center: {lat: 42.9456, lng: -122.2}
         }
 
 

@@ -3,27 +3,26 @@
   "features": [{
     "type": "Feature",
     "geometry": {
-      "type": "info",
-      "coordinates": [50.363425, 30.941581]
+      "type": "Point",
+      "coordinates": [-122.166149, 42.865508]
     },
     "properties": {
       "flush": true,
-      "child_education": true,
+      "shower": true,
       "vault": false,
-      "description": "Инфраструктура ЖК GRAPHITE",
-      "title": "Лицей им. Чубинского, ул. Февральская, 30",
+      "description": "Flush toilet, Shower",
+      "title": "Mazama",
       "marker-size": "small"
-
     }
   }, {
     "type": "Feature",
     "geometry": {
-      "type": "info",
-      "coordinates": [50.363455, 30.941677]
+      "type": "Point",
+      "coordinates": [-122.342876, 43.063217]
     },
     "properties": {
       "flush": false,
-      "child_education": false,
+      "shower": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Claude Lewis Sno-Park-USFS",
@@ -32,12 +31,12 @@
   }, {
     "type": "Feature",
     "geometry": {
-      "type": "library",
-      "coordinates": [50.363429, 30.941590]
+      "type": "Point",
+      "coordinates": [-122.037881, 42.879145]
     },
     "properties": {
       "flush": true,
-      "child_education": false,
+      "shower": false,
       "vault": false,
       "description": "Flush toilet",
       "title": "Lost Creek",
@@ -47,11 +46,11 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.363425, 30.941581]
+      "coordinates": [-122.330322, 43.056641]
     },
     "properties": {
       "flush": false,
-      "child_education": false,
+      "shower": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Hamaker",
@@ -61,11 +60,11 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.363425, 30.941581]
+      "coordinates": [-122.337174, 42.877807]
     },
     "properties": {
       "flush": false,
-      "child_education": false,
+      "shower": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Huckleberry Mountain",
@@ -75,11 +74,11 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.363425, 30.941581]
+      "coordinates": [-122.463867, 42.889648]
     },
     "properties": {
       "flush": false,
-      "child_education": false,
+      "shower": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Natural Bridge -USFS",
@@ -89,11 +88,11 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.363425, 30.941581]
+      "coordinates": [-122.433105, 42.919678]
     },
     "properties": {
       "flush": false,
-      "child_education": false,
+      "shower": false,
       "vault": false,
       "description": "",
       "title": "Farewell Bend",
@@ -103,11 +102,11 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.357510, 30.944644]
+      "coordinates": [-121.924772, 42.884588]
     },
     "properties": {
       "flush": false,
-      "child_education": false,
+      "shower": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Scott Creek",
@@ -117,11 +116,11 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.357511, 30.944645]
+      "coordinates": [-122.324644, 42.913045]
     },
     "properties": {
       "flush": false,
-      "child_education": false,
+      "shower": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Thousand Springs Sno-Park-USFS",
@@ -131,11 +130,11 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.363425, 30.941581]
+      "coordinates": [-122.45, 42.9102777778]
     },
     "properties": {
       "flush": false,
-      "child_education": false,
+      "shower": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Union Creek",
@@ -145,11 +144,11 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.363425, 30.941581]
+      "coordinates": [-122.4353305556, 42.9162388889]
     },
     "properties": {
       "flush": false,
-      "child_education": false,
+      "shower": false,
       "vault": false,
       "description": "",
       "title": "Farewell Bend Campground",
