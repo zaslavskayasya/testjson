@@ -10,8 +10,8 @@
       "flush": false,
       "child_ed": true,
       "vault": false,
-      "description": "Детские саді, школі",
-      "title": "Лицей им. Чубинского, ул. Февральская, 30",
+      "description": "'<?=___('Детские сады и школы','Дитячі садки та школи')?>'",
+      "title": "'<?=___('Лицей им. Чубинского, ул. Февральская, 30','Ліцей ім. Чубинского, вул. Лютнева, 30')?>'",
       "marker-size": "small",
       "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
 
