@@ -282,7 +282,7 @@
                 var markerInfo = "<div><h3>" + titleText + "</h3>"Категория: " + descriptionText + "</div>"
 
 
-                marker.addListener('click', function() {
+                marker.addListener('hover', function() {
                     infoWindow.close()
                     infoWindow.setContent(markerInfo)
                     infoWindow.open(map, marker)
