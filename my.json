@@ -10,8 +10,7 @@
       "child_education": true,
       "shops_entertainment":false,
       "description": "...",
-      "title": "Школа №1",
-
+      "title": "Школа №1"
     }
   }, {
     "type": "Feature",
@@ -24,8 +23,7 @@
       "shops_entertainment":true,
 
       "description": "...",
-      "title": "Концерт холл",
-
+      "title": "Концерт холл"
 
     }
   }]
