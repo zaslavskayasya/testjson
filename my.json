@@ -4,7 +4,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.349951, 30.951468]
+      "coordinates": [30.951468 , 50.349951]
     },
     "properties": {
       "child_education": true,
