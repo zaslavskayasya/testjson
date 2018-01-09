@@ -195,14 +195,15 @@
     var filters = {child_education:true, shops_entertainment:false};
 
     $(function () {
-        $('input[name=filter]').change(function (e) {
+
+        $('input[name=filter]').on('change', function (e) {
             map_filter(this.id);
             filter_markers()
-        });
+        });p
     });
 
     var get_set_options = function() {
-        ret_array = []
+        var ret_array = []
         for (option in filters) {
             if (filters[option]) {
                 ret_array.push(option)
@@ -212,17 +213,17 @@
     };
 
     var filter_markers = function() {
-        set_filters = get_set_options();
+       var  set_filters = get_set_options();
 
         // for each marker, check to see if all required options are set
         for (i = 0; i < markers.length; i++) {
-            marker = markers[i];
+           var marker = markers[i];
 
             // start the filter check assuming the marker will be displayed
             // if any of the required features are missing, set 'keep' to false
             // to discard this marker
-            keep=true;
-            mapset = map;
+            var keep=true;
+            var mapset = map;
             for (opt=0; opt<set_filters.length; opt++) {
                 if (!marker.properties[set_filters[opt]]) {
                     keep = false;
