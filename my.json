@@ -46,7 +46,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.369231, 30.934788 ]
+      "coordinates": [50.369231, 30.934788]
     },
     "properties": {
       "flush": false,
@@ -74,7 +74,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-122.463867, 42.889648]
+      "coordinates": [122.463867, 42.889648]
     },
     "properties": {
       "flush": false,
