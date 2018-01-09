@@ -16,7 +16,7 @@
   }, {
     "type": "Feature",
     "geometry": {
-      "type": "Point",
+      "type": "http://grafit.php-academy.org/img/placeholder-for-map.svg",
       "coordinates": [50.352958, 30.951047]
     },
     "properties": {
