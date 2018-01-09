@@ -275,14 +275,14 @@
                     title: titleText,
                     map: map,
                     properties: val['properties'],
-//                    icon: val['properties'].icon
+                    icon: val['properties'].icon
 
                 });
 
                 var markerInfo = "<div><h3>" + titleText + "</h3>" +'Категория:' + descriptionText + "</div>"
 
 
-                marker.addListener('hover', function() {
+                marker.addListener('click', function() {
                     infoWindow.close()
                     infoWindow.setContent(markerInfo)
                     infoWindow.open(map, marker)
