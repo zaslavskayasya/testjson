@@ -208,7 +208,7 @@
       "description": "test trc",
       "title": "trc",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
     }
   }, {
     "type": "Feature",
