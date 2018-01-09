@@ -4,14 +4,14 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [30.940155, 50.364541]
+      "coordinates": [50.363364, 30.941563]
     },
     "properties": {
       "flush": true,
       "child_ed": true,
       "vault": false,
-      "description": "Flush toilet, Shower",
-      "title": "Mazama",
+      "description": "Детские саді, школі",
+      "title": "Лицей им. Чубинского, ул. Февральская, 30",
       "marker-size": "small"
     }
   }, {
