@@ -22,7 +22,7 @@
     "type": "Feature",
     "geometry": {
       "type": "info",
-      "coordinates": [-122.342876, 43.063217]
+      "coordinates": [50.363455, 30.941677]
     },
     "properties": {
       "flush": false,
@@ -36,7 +36,7 @@
     "type": "Feature",
     "geometry": {
       "type": "library",
-      "coordinates": [-122.037881, 42.879145]
+      "coordinates": [50.363429, 30.941590]
     },
     "properties": {
       "flush": true,
@@ -50,7 +50,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-122.330322, 43.056641]
+      "coordinates": [50.363425, 30.941581]
     },
     "properties": {
       "flush": false,
@@ -64,7 +64,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-122.337174, 42.877807]
+      "coordinates": [50.363425, 30.941581]
     },
     "properties": {
       "flush": false,
@@ -78,7 +78,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-122.463867, 42.889648]
+      "coordinates": [50.363425, 30.941581]
     },
     "properties": {
       "flush": false,
@@ -92,7 +92,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-122.433105, 42.919678]
+      "coordinates": [50.363425, 30.941581]
     },
     "properties": {
       "flush": false,
@@ -106,7 +106,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-121.924772, 42.884588]
+      "coordinates": [50.363425, 30.941581]
     },
     "properties": {
       "flush": false,
@@ -120,7 +120,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-122.324644, 42.913045]
+      "coordinates": [50.363425, 30.941581]
     },
     "properties": {
       "flush": false,
@@ -134,7 +134,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-122.45, 42.9102777778]
+      "coordinates": [50.363425, 30.941581]
     },
     "properties": {
       "flush": false,
@@ -148,7 +148,7 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [-122.4353305556, 42.9162388889]
+      "coordinates": [50.363425, 30.941581]
     },
     "properties": {
       "flush": false,
