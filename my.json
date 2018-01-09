@@ -80,15 +80,120 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [122.463867, 42.889648]
+      "coordinates": [50.363784, 30.944407]
     },
     "properties": {
       "flush": false,
-      "child_ed": false,
-      "vault": true,
-      "description": "Vault toilet",
-      "title": "Natural Bridge -USFS",
-      "marker-size": "small"
+      "child_ed": true,
+      "vault": false,
+      "description": "7",
+      "title": "7",
+      "marker-size": "small",
+      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+    } }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.360830, 30.937226]
+    },
+    "properties": {
+      "flush": false,
+      "child_ed": true,
+      "vault": false,
+      "description": "8",
+      "title": "8",
+      "marker-size": "small",
+      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+    }
+  },  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.362931, 30.941470]
+    },
+    "properties": {
+      "flush": false,
+      "child_ed": true,
+      "vault": false,
+      "description": "9",
+      "title": "9",
+      "marker-size": "small",
+      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.351957, 30.953593]
+    },
+    "properties": {
+      "flush": false,
+      "child_ed": true,
+      "vault": false,
+      "description": "10",
+      "title": "10",
+      "marker-size": "small",
+      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.350680, 30.948574]
+    },
+    "properties": {
+      "flush": false,
+      "child_ed": true,
+      "vault": false,
+      "description": "11",
+      "title": "Д/с №1",
+      "marker-size": "small",
+      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.350826, 30.945992]
+    },
+    "properties": {
+      "flush": false,
+      "child_ed": true,
+      "vault": false,
+      "description": "12",
+      "title": "12",
+      "marker-size": "small",
+      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.348358, 30.946959]
+    },
+    "properties": {
+      "flush": false,
+      "child_ed": true,
+      "vault": false,
+      "description": "13",
+      "title": "13",
+      "marker-size": "small",
+      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.375471, 30.947793]
+    },
+    "properties": {
+      "flush": false,
+      "child_ed": true,
+      "vault": false,
+      "description": "14",
+      "title": "14",
+      "marker-size": "small",
+      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
     }
   }, {
     "type": "Feature",
