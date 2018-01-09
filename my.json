@@ -13,6 +13,7 @@
       "description": "Flush toilet, Shower",
       "title": "Mazama",
       "marker-size": "small",
+      "icon": "http://grafit.php-academy.org/img/phone-receiver.svg",
       "iconUrl": "http://grafit.php-academy.org/img/phone-receiver.svg",
       "iconSize": "24,24",
       "iconOffset": "-24,0"
