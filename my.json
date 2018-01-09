@@ -11,12 +11,12 @@
       "shops_entertainment":false,
       "description": "...",
       "title": "Школа №1",
-      "marker-size": "small"
+
     }
   }, {
     "type": "Feature",
     "geometry": {
-      "type": "http://grafit.php-academy.org/img/placeholder-for-map.svg",
+      "type": "Point",
       "coordinates": [50.352958, 30.951047]
     },
     "properties": {
@@ -25,7 +25,7 @@
 
       "description": "...",
       "title": "Концерт холл",
-      "marker-size": "small"
+
 
     }
   }]
