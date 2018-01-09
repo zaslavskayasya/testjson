@@ -1,0 +1,313 @@
+
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>ЖК Графит - новый комплекс в центре Борисполя, квартиры в новостройке от 10000 грн/м.кв.</title>
+
+
+</head>
+<body>
+<style>
+    .infr-list li {
+        width: 48%;
+        display: inline-block;
+        margin-bottom: 25px;
+    }
+    div.map-wrap{
+        margin-top: 5px !important;
+    }
+
+
+    @media (max-width: 1199px){
+        #plan_carousel_ .phptos, .plan-carousel-wrap {
+            display: none;
+        }
+        #xjjs{
+            max-height: 518px; overflow: hidden;
+        }
+    }
+    @media (max-width: 992px){
+
+        #about-complex .lSPager a div.caption{
+
+            padding-top: 50%;
+            padding-left: 0px;
+            padding-right: 0px;
+            font-size: 10px;
+            max-width: 200px;
+        }
+
+        p.infr-text{
+            margin-top: 20px !important;
+        }
+    }
+    @media (min-width: 992px){
+        #xjjs{
+            max-height: 498px;
+            overflow: hidden;
+        }
+    }
+    @media (min-width: 1200px){
+        #xjjs{
+            max-height: 478px;
+            overflow: hidden;
+        }
+    }
+    #interactive_map {
+        width: 100%;
+        height:100%;
+    }
+    input.chk-btn {
+        display: none;
+    }
+    input.chk-btn + label {
+
+        padding:3px;
+        cursor: pointer;
+        border-radius: 5px;
+        border: 1px solid transparent;
+
+    }
+    input.chk-btn:not(:checked) + label:hover {
+        /*box-shadow: 0px 1px 3px;*/
+        border: 1px solid #f93;
+        border-radius: 2px;
+        padding: 3px;
+
+    }
+    input.chk-btn + label:active,
+    input.chk-btn:checked + label {
+        /*box-shadow: 0px 0px 3px inset;*/
+        /*background: #8cc472;*/
+        border: 1px solid #f93;
+        border-radius: 2px;
+        padding: 3px;
+
+    }
+    .map-wrap {
+        width: 500px;
+        height: 500px;
+    }
+</style>
+<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC4ld2Jp1mfQQD86pB4xdWemMjIyik4Yks" ></script>
+<!--<script  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC4ld2Jp1mfQQD86pB4xdWemMjIyik4Yks" ></script>-->
+<!--<script src="https://maps.googleapis.com/maps/api/js"></script>-->
+<section class="infro">
+    <h2 class="text-center center-name" style="padding-left: 60px;"><?=___('Инфраструктура','ІНФРАСТРУКТУРА')?>
+        <span class="infr-right"> <a style="padding-right: 60px;" href="javascript:void(0);"  data-toggle="modal" data-target="#callBackModalPDF"><?=___('Скачать PDF-презентацию','Скачати PDF-презентацію')?></a></span>
+    </h2>
+    <div class="row">
+        <div style="" class="things-padding ">
+
+            <div class="row row-eq-height">
+
+                <div class="col-md-6" id="xjjs" style="">
+                    <div class="map-wrap">
+                        <div id="interactive_map"></div>
+                        <div id="campground_info"></div>
+                        <!--<iframe style="border: none;" src="https://www.google.com/maps/d/u/1/embed?mid=1r65KQvyvw8CHH6zgMSG9UBKYiOiluoaA" width="100%" height="550"></iframe>-->
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <p class="infr-text">
+                        <?=___('ЖК «Graphite» имеет очень выгодное расположение и строится в центре Борисполя возле городского парка культуры и отдыха. До главной артерии города, ул. Киевский шлях и остановки на Киев - 100м. А прямо рядом с ЖК расположены супермаркеты, аптеки, рынки, учебные заведения и сервисные бытовые службы.','ЖК «Graphite» має дуже вигідне розташування і будується у центрі Борисполя біля міського парку культури та відпочинку. До головної артерії міста, вул. Київський шлях та зупинки на Київ – 100м. А зовсім поруч з ЖК розташовані супермаркети, аптеки, ринки, навчальні заклади та сервісні побутові служби.')?>
+                    </p>
+                    <ul class="infr-list">
+                        <li class="infr-item infr-item1">
+
+                                  <span class="infr-item-item ">
+                                     <input type="checkbox" name="filter" id="child_education" class='chk-btn'>
+                                    <label for='child_education'>
+                                        <img class="" src="/img/house.svg">
+                                    </label>
+                                        <p><?=___('Детские сады и школы','Дитячі садки та школи')?> </p>
+                                     </span>
+                        </li>
+                        <li class="infr-item infr-item1">
+                                  <span class="infr-item-item ">
+                                       <input type="checkbox" name="filter" id="shops_entertainment" class='chk-btn'>
+                                      <label for='shops_entertainment'>
+                                             <img style="width: 39px" src="/img/shop.svg">
+                                      </label>
+                                        <p><?=___('Торговые и развлекательные центры','Торгові та розважальні центри')?> </p>
+                                     </span>
+                        </li>
+                        <li class="infr-item infr-item1">
+                                  <span class="infr-item-item ">
+                                    <img style="" src="/img/shopping-cart.png">
+                                        <p><?=___('Супермаркеты, магазины и рынки','Супермаркети, магазини, ринки')?> </p>
+                                     </span>
+                        </li>
+                        <li class="infr-item infr-item1">
+                                  <span class="infr-item-item ">
+                                    <img  style="width: 39px" src="/img/medicine.svg">
+                                        <p><?=___('Медицинские центры и аптеки','Медичні центри та аптеки')?> </p>
+                                     </span>
+                        </li>
+                        <li class="infr-item infr-item1">
+                                  <span class="infr-item-item ">
+                                    <img  src="/img/bus.svg">
+                                        <p><?=___('Остановка транспорта на Киев (100м)','Зупинка транспорту на Київ (100м)')?> </p>
+                                     </span>
+                        </li>
+                        <li class="infr-item infr-item1">
+                                  <span class="infr-item-item ">
+                                    <img style="width: 39px" src="/img/landscape.png">
+                                        <p><?=___('Парки и зоны отдыха','Парки та зони відпочинку')?> </p>
+                                     </span>
+                        </li>
+                        <li class="infr-item infr-item1">
+                                  <span class="infr-item-item ">
+                                    <img  src="/img/house-reforms.png">
+                                        <p><?=___('Службы быта и сервиса','Сервісні служби побуту')?> </p>
+                                     </span>
+                        </li>
+                        <li class="infr-item infr-item1">
+                                  <span class="infr-item-item ">
+                                      <img style=" width: 39px" src="/img/bank.png">
+                                        <p><?=___('Банки и почтовые службы','Банки й поштові служби')?> </p>
+                                     </span>
+                        </li>
+
+
+                    </ul>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    jQuery('.likes').click(function(){
+        jQuery(this).toggleClass('fill');
+        jQuery.get('/items/mark?code='+jQuery(this).attr('data-code'));
+    });
+
+    jQuery("[data-toggle='popover']").popover({html:true, trigger: "hover",
+        delay: {
+            show: "1",
+            hide: "2000"
+        }
+    });
+
+    jQuery("[data-toggle='popover']").on('shown.bs.popover', function () {
+        var $pop = $(this);
+//        setTimeout(function () {
+//            $pop.popover('hide');
+//        }, 3000);
+//        setTimeout(function () {
+//            $pop.popover();
+//        }, 3200);
+    });
+
+
+    var map;
+    var markers = [];
+
+    // start out with filter features set to false, so no filtering happens by default
+    var filters = {child_education:false, shops_entertainment:false};
+
+    $(function () {
+        $('input[name=filter]').change(function (e) {
+            map_filter(this.id);
+            filter_markers()
+        });
+    });
+
+    var get_set_options = function() {
+        ret_array = []
+        for (option in filters) {
+            if (filters[option]) {
+                ret_array.push(option)
+            }
+        }
+        return ret_array;
+    };
+
+    var filter_markers = function() {
+        set_filters = get_set_options();
+
+        // for each marker, check to see if all required options are set
+        for (i = 0; i < markers.length; i++) {
+            marker = markers[i];
+
+            // start the filter check assuming the marker will be displayed
+            // if any of the required features are missing, set 'keep' to false
+            // to discard this marker
+            keep=true;
+            mapset = map;
+            for (opt=0; opt<set_filters.length; opt++) {
+                if (!marker.properties[set_filters[opt]]) {
+                    keep = false;
+                }
+            }
+            marker.setVisible(keep)
+        }
+    };
+
+    var map_filter = function(id_val) {
+        if (filters[id_val])
+            filters[id_val] = false;
+        else
+            filters[id_val] = true
+    };
+
+
+    // after the geojson is loaded, iterate through the map data to create markers
+    // and add the pop up (info) windows
+    function loadMarkers() {
+        console.log("data coorinates etc : " + 'creating markers');
+        var infoWindow = new google.maps.InfoWindow();
+//        geojson_url = 'http://grafit.php-academy.org/img/filp.json';
+        $.getJSON('https://zaslavskayasya.github.io/testjson/my.json', function(result) {
+            // Post select to url.
+            var data = result['features'];
+            $.each(data, function(key, val) {
+                var point = new google.maps.LatLng(
+                    parseFloat(val['geometry']['coordinates'][1]),
+                    parseFloat(val['geometry']['coordinates'][0]));
+                var titleText = val['properties']['title'];
+                var descriptionText = val['properties']['description'];
+                var marker = new google.maps.Marker({
+                    position: point,
+                    title: titleText,
+                    map: map,
+                    properties: val['properties']
+                });
+
+                var markerInfo = "<div><h3>" + titleText + "</h3>Amenities: " + descriptionText + "</div>";
+
+
+                marker.addListener('click', function() {
+                    infoWindow.close();
+                    infoWindow.setContent(markerInfo);
+                    infoWindow.open(map, marker)
+                });
+                markers.push(marker)
+            });
+        });
+    }
+
+    function initMap() {
+        var map_options = {
+            zoom: 15,
+            mapTypeId: google.maps.MapTypeId.HYBRID,
+            center: {lat: 50.364623, lng: 30.937114}
+        };
+
+        var map_document = document.getElementById('interactive_map');
+        var map = new google.maps.Map(map_document,map_options);
+        loadMarkers()
+
+    }
+
+    google.maps.event.addDomListener(window, 'load', initMap);
+
+</script>
+
+</body>
+</html>
