@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.349951, 30.951468]
+    },
+    "properties": {
+      "child_education": true,
+      "shops_entertainment":false,
+      "description": "...",
+      "title": "Школа №1",
+      "marker-size": "small"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.352958, 30.951047]
+    },
+    "properties": {
+      "child_education":false,
+      "shops_entertainment":true,
+
+      "description": "...",
+      "title": "Концерт холл",
+      "marker-size": "small"
+
+    }
+  }]
+}
