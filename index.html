@@ -124,13 +124,11 @@
                     </div>
                     <ul class="infr-list">
                         <li class="infr-item infr-item1">
-
                                   <span class="infr-item-item ">
-                                     <input type="checkbox" name="filter" id="shower" class='chk-btn'>
-                                       <label for='shower'>
+                                     <input type="checkbox" name="filter" id="child_education" class='chk-btn'>
+                                       <label for='child_education'>
                                            <img class="" src="/img/house.svg">
                                        </label>
-
                                         <p>1<?=___('Детские сады и школы','Дитячі садки та школи')?> </p>
                                      </span>
                         </li>
@@ -200,7 +198,7 @@
     var markers = []
 
     // start out with filter features set to false, so no filtering happens by default
-    var filters = {shower:false, vault:false, flush:false}
+    var filters = {child_education:false, vault:false, flush:false}
 
     $(function () {
         $('input[name=filter]').change(function (e) {
@@ -290,7 +288,7 @@
         map_options = {
             zoom: 10,
             mapTypeId: google.maps.MapTypeId.HYBRID,
-            center: {lat: 42.9456, lng: -122.2}
+            center: {lat:  50.357510, lng: 30.944644}
         }
 
 

@@ -4,14 +4,14 @@
     "type": "Feature",
     "geometry": {
       "type": "info",
-      "coordinates": [-122.166149, 42.865508]
+      "coordinates": [50.363425, 30.941581]
     },
     "properties": {
       "flush": true,
-      "shower": true,
+      "child_education": true,
       "vault": false,
-      "description": "Flush toilet, Shower",
-      "title": "Mazama",
+      "description": "Инфраструктура ЖК GRAPHITE",
+      "title": "Лицей им. Чубинского, ул. Февральская, 30",
       "marker-size": "small",
       "icon": "http://grafit.php-academy.org/img/phone-receiver.svg",
       "iconUrl": "http://grafit.php-academy.org/img/phone-receiver.svg",
@@ -26,7 +26,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_education": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Claude Lewis Sno-Park-USFS",
@@ -40,7 +40,7 @@
     },
     "properties": {
       "flush": true,
-      "shower": false,
+      "child_education": false,
       "vault": false,
       "description": "Flush toilet",
       "title": "Lost Creek",
@@ -54,7 +54,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_education": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Hamaker",
@@ -68,7 +68,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_education": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Huckleberry Mountain",
@@ -82,7 +82,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_education": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Natural Bridge -USFS",
@@ -96,7 +96,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_education": false,
       "vault": false,
       "description": "",
       "title": "Farewell Bend",
@@ -110,7 +110,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_education": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Scott Creek",
@@ -124,7 +124,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_education": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Thousand Springs Sno-Park-USFS",
@@ -138,7 +138,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_education": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Union Creek",
@@ -152,7 +152,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_education": false,
       "vault": false,
       "description": "",
       "title": "Farewell Bend Campground",
