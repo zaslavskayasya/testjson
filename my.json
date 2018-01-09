@@ -13,7 +13,7 @@
       "description": "Инфраструктура ЖК GRAPHITE",
       "title": "Лицей им. Чубинского, ул. Февральская, 30",
       "marker-size": "small",
-      "icon": "http://grafit.php-academy.org/img/shopping-cart.png",
+      "icon": "https://zaslavskayasya.github.io/shopping-cart.png",
       "iconUrl": "http://grafit.php-academy.org/img/phone-receiver.svg",
       "iconSize": "24,24",
       "iconOffset": "-24,0"
