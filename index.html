@@ -284,6 +284,7 @@
             });
         });
     }
+
     var iconBase = 'https://maps.google.com/mapfiles/kml/shapes/';
     var icons = {
         parking: {
@@ -297,6 +298,13 @@
         }
     };
 
+    function addMarker(feature) {
+        var marker = new google.maps.Marker({
+            position: feature.position,
+            icon: icons[feature.type].icon,
+            map: map
+        });
+    }
     function initMap() {
         map_options = {
             zoom: 10,
@@ -308,24 +316,8 @@
         map_document = document.getElementById('interactive_map')
         map = new google.maps.Map(map_document,map_options);
         loadMarkers();
-        var icons = {
-            parking: {
-                icon: iconBase + 'parking_lot_maps.png'
-            },
-            library: {
-                icon: iconBase + 'library_maps.png'
-            },
-            info: {
-                icon: iconBase + 'info-i_maps.png'
-            }
-        };
-        features.forEach(function(feature) {
-            var marker = new google.maps.Marker({
-                position: feature.position,
-                icon: icons[feature.type].icon,
-                map: map
-            });
-        });
+        addMarker();
+
     }
 
     google.maps.event.addDomListener(window, 'load', initMap);
