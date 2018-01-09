@@ -8,7 +8,7 @@
     },
     "properties": {
       "flush": true,
-      "shower": true,
+      "child_ed": true,
       "vault": false,
       "description": "Flush toilet, Shower",
       "title": "Mazama",
@@ -22,7 +22,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_ed": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Claude Lewis Sno-Park-USFS",
@@ -36,7 +36,7 @@
     },
     "properties": {
       "flush": true,
-      "shower": false,
+      "child_ed": false,
       "vault": false,
       "description": "Flush toilet",
       "title": "Lost Creek",
@@ -50,7 +50,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_ed": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Hamaker",
@@ -64,7 +64,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_ed": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Huckleberry Mountain",
@@ -78,7 +78,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_ed": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Natural Bridge -USFS",
@@ -92,7 +92,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_ed": false,
       "vault": false,
       "description": "",
       "title": "Farewell Bend",
@@ -106,7 +106,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_ed": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Scott Creek",
@@ -120,7 +120,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_ed": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Thousand Springs Sno-Park-USFS",
@@ -134,7 +134,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_ed": false,
       "vault": true,
       "description": "Vault toilet",
       "title": "Union Creek",
@@ -148,7 +148,7 @@
     },
     "properties": {
       "flush": false,
-      "shower": false,
+      "child_ed": false,
       "vault": false,
       "description": "",
       "title": "Farewell Bend Campground",

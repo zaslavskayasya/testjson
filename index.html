@@ -120,8 +120,8 @@
                     </p>
                     <div id="">
 
-                        <input type="checkbox" name="filter" id="shower" class='chk-btn'>
-                        <label for='shower'>Shower</label>
+                        <input type="checkbox" name="filter" id="child_ed" class='chk-btn'>
+                        <label for='child_ed'>Shower</label>
 
                         <input type="checkbox" name="filter" id="flush" class='chk-btn'>
                         <label for='flush'>Flush Toilet</label>
@@ -207,7 +207,7 @@
     var markers = []
 
     // start out with filter features set to false, so no filtering happens by default
-    var filters = {child_education:false, vault:false, flush:false}
+    var filters = {child_ed:false, vault:false, flush:false}
 
     $(function () {
         $('input[name=filter]').change(function (e) {
