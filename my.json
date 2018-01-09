@@ -3,7 +3,7 @@
   "features": [{
     "type": "Feature",
     "geometry": {
-      "type": "Point",
+      "type": "info",
       "coordinates": [-122.166149, 42.865508]
     },
     "properties": {
@@ -17,7 +17,7 @@
   }, {
     "type": "Feature",
     "geometry": {
-      "type": "Point",
+      "type": "info",
       "coordinates": [-122.342876, 43.063217]
     },
     "properties": {
@@ -31,7 +31,7 @@
   }, {
     "type": "Feature",
     "geometry": {
-      "type": "Point",
+      "type": "library",
       "coordinates": [-122.037881, 42.879145]
     },
     "properties": {
