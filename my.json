@@ -9,7 +9,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "2",
       "title": "2",
       "marker-size": "small",
@@ -25,7 +25,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "3",
       "title": "Школа №6",
       "marker-size": "small",
@@ -40,7 +40,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "4",
       "title": "4",
       "marker-size": "small",
@@ -55,7 +55,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "5",
       "title": "Школа №1",
       "marker-size": "small",
@@ -70,7 +70,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "6",
       "title": "6",
       "marker-size": "small",
@@ -85,7 +85,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "7",
       "title": "7",
       "marker-size": "small",
@@ -99,7 +99,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "8",
       "title": "8",
       "marker-size": "small",
@@ -114,7 +114,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "9",
       "title": "9",
       "marker-size": "small",
@@ -129,7 +129,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "10",
       "title": "10",
       "marker-size": "small",
@@ -144,7 +144,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "11",
       "title": "Д/с №1",
       "marker-size": "small",
@@ -159,7 +159,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "12",
       "title": "12",
       "marker-size": "small",
@@ -174,7 +174,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "13",
       "title": "13",
       "marker-size": "small",
@@ -189,7 +189,7 @@
     "properties": {
       "flush": false,
       "child_ed": true,
-      "vault": false,
+      "funs": false,
       "description": "14",
       "title": "14",
       "marker-size": "small",
@@ -204,7 +204,7 @@
     "properties": {
       "flush": true,
       "child_ed": false,
-      "vault": false,
+      "funs": false,
       "description": "16",
       "title": "АТБ-маркет",
       "marker-size": "small",
@@ -219,7 +219,7 @@
     "properties": {
       "flush": true,
       "child_ed": false,
-      "vault": false,
+      "funs": false,
       "description": "17",
       "title": "АТБ-маркет",
       "marker-size": "small",
@@ -234,7 +234,7 @@
     "properties": {
       "flush": true,
       "child_ed": false,
-      "vault": false,
+      "funs": false,
       "description": "18",
       "title": "АТБ-маркет",
       "marker-size": "small",
@@ -249,7 +249,7 @@
     "properties": {
       "flush": true,
       "child_ed": false,
-      "vault": false,
+      "funs": false,
       "description": "19",
       "title": "Billa",
       "marker-size": "small",
@@ -264,7 +264,7 @@
     "properties": {
       "flush": true,
       "child_ed": false,
-      "vault": false,
+      "funs": false,
       "description": "20",
       "title": "АТБ-маркет",
       "marker-size": "small",
@@ -279,7 +279,7 @@
     "properties": {
       "flush": true,
       "child_ed": false,
-      "vault": false,
+      "funs": false,
       "description": "21",
       "title": "Фора",
       "marker-size": "small",
@@ -294,7 +294,7 @@
     "properties": {
       "flush": true,
       "child_ed": false,
-      "vault": false,
+      "funs": false,
       "description": "22",
       "title": "Эко-маркет",
       "marker-size": "small",
@@ -309,7 +309,7 @@
     "properties": {
       "flush": true,
       "child_ed": false,
-      "vault": false,
+      "funs": false,
       "description": "23",
       "title": "Novus",
       "marker-size": "small",
@@ -324,7 +324,7 @@
     "properties": {
       "flush": true,
       "child_ed": false,
-      "vault": false,
+      "funs": false,
       "description": "24",
       "title": "24",
       "marker-size": "small",
@@ -339,7 +339,7 @@
     "properties": {
       "flush": true,
       "child_ed": false,
-      "vault": false,
+      "funs": false,
       "description": "25",
       "title": "Гастроном `Маяк`",
       "marker-size": "small",
@@ -354,7 +354,7 @@
     "properties": {
       "flush": true,
       "child_ed": false,
-      "vault": false,
+      "funs": false,
       "description": "26",
       "title": "Магазин Roshen",
       "marker-size": "small",
@@ -369,7 +369,7 @@
     "properties": {
       "flush": false,
       "child_ed": false,
-      "vfhrtn": true,
+      "funs": true,
       "description": "Vault toilet",
       "title": "Scott Creek",
       "marker-size": "small",
@@ -384,7 +384,7 @@
     "properties": {
       "flush": false,
       "child_ed": false,
-      "vault": true,
+      "funs": true,
       "description": "Vault toilet",
       "title": "Thousand Springs Sno-Park-USFS",
       "marker-size": "small"
@@ -398,7 +398,7 @@
     "properties": {
       "flush": false,
       "child_ed": false,
-      "vault": true,
+      "funs": true,
       "description": "Vault toilet",
       "title": "Union Creek",
       "marker-size": "small"
@@ -412,7 +412,7 @@
     "properties": {
       "flush": false,
       "child_ed": false,
-      "vault": false,
+      "funs": false,
       "description": "",
       "title": "Farewell Bend Campground",
       "marker-size": "small"
