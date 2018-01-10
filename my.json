@@ -199,14 +199,74 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.355436, 30.929292]
+      "coordinates": [50.358605, 30.938607]
     },
     "properties": {
       "flush": true,
       "child_ed": false,
       "vault": false,
-      "description": "test trc",
-      "title": "trc",
+      "description": "16",
+      "title": "АТБ-маркет",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.373888, 30.943930]
+    },
+    "properties": {
+      "flush": true,
+      "child_ed": false,
+      "vault": false,
+      "description": "17",
+      "title": "АТБ-маркет",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.351240, 30.951881]
+    },
+    "properties": {
+      "flush": true,
+      "child_ed": false,
+      "vault": false,
+      "description": "18",
+      "title": "АТБ-маркет",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.358605, 30.938607]
+    },
+    "properties": {
+      "flush": true,
+      "child_ed": false,
+      "vault": false,
+      "description": "16",
+      "title": "АТБ-маркет",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.358605, 30.938607]
+    },
+    "properties": {
+      "flush": true,
+      "child_ed": false,
+      "vault": false,
+      "description": "16",
+      "title": "АТБ-маркет",
       "marker-size": "small",
       "icon" : "http://grafit.php-academy.org/img/shop.png"
     }
