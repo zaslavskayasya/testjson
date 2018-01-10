@@ -319,7 +319,7 @@
       "description": "24",
       "title": "24",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.orgg/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -333,7 +333,7 @@
       "description": "25",
       "title": "Гастроном `Маяк`",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.orgg/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
