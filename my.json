@@ -328,7 +328,7 @@
       "description": "24",
       "title": "24",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.orgg/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -343,7 +343,7 @@
       "description": "25",
       "title": "Гастроном `Маяк`",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.orgg/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -358,7 +358,7 @@
       "description": "26",
       "title": "Магазин Roshen",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.orgg/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -369,10 +369,11 @@
     "properties": {
       "flush": false,
       "child_ed": false,
-      "vault": true,
+      "vfhrtn": true,
       "description": "Vault toilet",
       "title": "Scott Creek",
-      "marker-size": "small"
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.orgg/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
