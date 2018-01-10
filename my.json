@@ -406,13 +406,13 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.354432, 30.952789]
+      "coordinates": [50.363425, 30.941614]
     },
     "properties": {
 
       "funs": false,
       "description": "",
-      "title": "Farewell Bend Campground",
+      "title": "ЖК GRAPHITE",
       "marker-size": "small"
     }
   }]
