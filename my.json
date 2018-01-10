@@ -346,7 +346,7 @@
       "description": "26",
       "title": "Магазин Roshen",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.orgg/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -360,7 +360,7 @@
       "description": "28",
       "title": "28",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.orgg/img/bus.png"
+      "icon" : "http://grafit.php-academy.org/img/bus.png"
     }
   }, {
     "type": "Feature",
@@ -374,20 +374,119 @@
       "description": "29",
       "title": "29",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.orgg/img/bus.png"
+      "icon" : "http://grafit.php-academy.org/img/bus.png"
     }
   }, {
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.352782, 30.955669]
+      "coordinates": [50.363471, 30.929757]
     },
     "properties": {
 
-      "flush": true,
-      "description": "Vault toilet",
-      "title": "Thousand Springs Sno-Park-USFS",
-      "marker-size": "small"
+      "services": true,
+      "description": "31",
+      "title": "31",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.349725, 30.955803]
+    },
+    "properties": {
+
+      "services": true,
+      "description": "32",
+      "title": "32",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.349972, 30.953129]
+    },
+    "properties": {
+
+      "services": true,
+      "description": "33",
+      "title": "33",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.358391, 30.942727]
+    },
+    "properties": {
+
+      "services": true,
+      "description": "34",
+      "title": "34",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.357597, 30.940958]
+    },
+    "properties": {
+
+      "services": true,
+      "description": "35",
+      "title": "35",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.359222, 30.940931]
+    },
+    "properties": {
+
+      "services": true,
+      "description": "36",
+      "title": "36",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.361961, 30.928000]
+    },
+    "properties": {
+
+      "services": true,
+      "description": "37",
+      "title": "37",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.360494, 30.939730]
+    },
+    "properties": {
+
+      "services": true,
+      "description": "38",
+      "title": "38",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
     }
   }, {
     "type": "Feature",
