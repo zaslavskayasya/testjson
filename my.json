@@ -752,6 +752,176 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
+      "coordinates": [50.353494, 30.949793]
+    },
+    "properties": {
+      "rest": true,
+      "description": "62",
+      "title": "62",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/tree.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.352730, 30.950359]
+    },
+    "properties": {
+      "rest": true,
+      "description": "63",
+      "title": "63",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/tree.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.354656, 30.947810]
+    },
+    "properties": {
+      "rest": true,
+      "description": "64",
+      "title": "64",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/tree.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.348935, 30.955007]
+    },
+    "properties": {
+      "banks": true,
+      "description": "66",
+      "title": "66",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/bank.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.352840, 30.952258]
+    },
+    "properties": {
+      "banks": true,
+      "description": "67",
+      "title": "`НП` №2",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/bank.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.361565, 30.940384]
+    },
+    "properties": {
+      "banks": true,
+      "description": "68",
+      "title": "`НП` №4",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/bank.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.353296, 30.950218]
+    },
+    "properties": {
+      "banks": true,
+      "description": "69",
+      "title": "`НП` №7",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/bank.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.361046, 30.934232]
+    },
+    "properties": {
+      "banks": true,
+      "description": "70",
+      "title": "`Ощадбанк`",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/bank.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.360375, 30.936093]
+    },
+    "properties": {
+      "banks": true,
+      "description": "71",
+      "title": "`Приватбанк`",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/bank.png"
+    }
+
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.358473, 30.941555]
+    },
+    "properties": {
+      "banks": true,
+      "description": "72",
+      "title": "`Укрсоцбанк`",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/bank.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.353300, 30.949856]
+    },
+    "properties": {
+      "banks": true,
+      "description": "73",
+      "title": "`Укрсиббанк`",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/bank.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.349432, 30.955256]
+    },
+    "properties": {
+      "banks": true,
+      "description": "74",
+      "title": "`Райффайзенбанк-Аваль`",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/bank.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.348681, 30.956309]
+    },
+    "properties": {
+      "banks": true,
+      "description": "75",
+      "title": "`Райффайзенбанк-Аваль`",
+      "marker-size": "`Укргазбанк`",
+      "icon" : "http://grafit.php-academy.org/img/bank.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
       "coordinates": [50.363425, 30.941614]
     },
     "properties": {
