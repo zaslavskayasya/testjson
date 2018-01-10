@@ -7,9 +7,9 @@
       "coordinates": [50.363364, 30.941563]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "2",
       "title": "2",
       "marker-size": "small",
@@ -23,9 +23,9 @@
       "coordinates": [50.366314, 30.940594]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "3",
       "title": "Школа №6",
       "marker-size": "small",
@@ -38,9 +38,9 @@
       "coordinates": [50.360619, 30.947372]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "4",
       "title": "4",
       "marker-size": "small",
@@ -337,8 +337,7 @@
       "coordinates": [50.359221, 30.941097]
     },
     "properties": {
-      "flush": true,
-      "child_ed": false,
+
       "funs": false,
       "description": "25",
       "title": "Гастроном `Маяк`",
@@ -352,8 +351,7 @@
       "coordinates": [50.349511, 30.953917]
     },
     "properties": {
-      "flush": true,
-      "child_ed": false,
+
       "funs": false,
       "description": "26",
       "title": "Магазин Roshen",
@@ -367,8 +365,7 @@
       "coordinates": [50.352859, 30.950472]
     },
     "properties": {
-      "flush": false,
-      "child_ed": false,
+
       "funs": true,
       "description": "Vault toilet",
       "title": "Scott Creek",
@@ -382,8 +379,7 @@
       "coordinates": [50.352782, 30.955669]
     },
     "properties": {
-      "flush": false,
-      "child_ed": false,
+
       "funs": true,
       "description": "Vault toilet",
       "title": "Thousand Springs Sno-Park-USFS",
@@ -396,8 +392,7 @@
       "coordinates": [50.350579, 30.950017]
     },
     "properties": {
-      "flush": false,
-      "child_ed": false,
+
       "funs": true,
       "description": "Vault toilet",
       "title": "Union Creek",
@@ -410,8 +405,7 @@
       "coordinates": [50.354432, 30.952789]
     },
     "properties": {
-      "flush": false,
-      "child_ed": false,
+
       "funs": false,
       "description": "",
       "title": "Farewell Bend Campground",
