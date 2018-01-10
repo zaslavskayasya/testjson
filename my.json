@@ -557,6 +557,201 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
+      "coordinates": [50.346072, 30.945989]
+    },
+    "properties": {
+      "med": true,
+      "description": "46",
+      "title": "46",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.345990, 30.946130]
+    },
+    "properties": {
+      "med": true,
+      "description": "47",
+      "title": "47",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.348469, 30.947733]
+    },
+    "properties": {
+      "med": true,
+      "description": "48",
+      "title": "48",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.356289, 30.944075]
+    },
+    "properties": {
+      "med": true,
+      "description": "49",
+      "title": "49",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.364218, 30.939976]
+    },
+    "properties": {
+      "med": true,
+      "description": "50",
+      "title": "Аптека",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.363076, 30.929763]
+    },
+    "properties": {
+      "med": true,
+      "description": "51",
+      "title": "Аптека",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.351185, 30.952142]
+    },
+    "properties": {
+      "med": true,
+      "description": "52",
+      "title": "Аптека",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.361580, 30.940770]
+    },
+    "properties": {
+      "med": true,
+      "description": "53",
+      "title": "Аптека",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.357183, 30.941966]
+    },
+    "properties": {
+      "med": true,
+      "description": "54",
+      "title": "Аптека",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.353287, 30.949964]
+    },
+    "properties": {
+      "med": true,
+      "description": "55",
+      "title": "Аптека",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.359524, 30.937934]
+    },
+    "properties": {
+      "med": true,
+      "description": "56",
+      "title": "56",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.359945, 30.937153]
+    },
+    "properties": {
+      "med": true,
+      "description": "57",
+      "title": "Аптека",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.356290, 30.944223]
+    },
+    "properties": {
+      "med": true,
+      "description": "58",
+      "title": "58",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.362887, 30.937452]
+    },
+    "properties": {
+      "med": true,
+      "description": "59",
+      "title": "59",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.364291, 30.940000]
+    },
+    "properties": {
+      "med": true,
+      "description": "60",
+      "title": "60",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
       "coordinates": [50.363425, 30.941614]
     },
     "properties": {
