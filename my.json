@@ -492,14 +492,66 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.350579, 30.950017]
+      "coordinates": [50.353296, 30.950148]
     },
     "properties": {
-
       "funs": true,
-      "description": "Vault toilet",
-      "title": "Union Creek",
-      "marker-size": "small"
+      "description": "40",
+      "title": "ТЦ `Park Town`",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.358482, 30.938446]
+    },
+    "properties": {
+      "funs": true,
+      "description": "41",
+      "title": "ТЦ `Mix Mall`",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.364312, 30.920598]
+    },
+    "properties": {
+      "funs": true,
+      "description": "42",
+      "title": "42",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.352791, 30.950985]
+    },
+    "properties": {
+      "funs": true,
+      "description": "43",
+      "title": "ТЦ `Park Town`",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.364208, 30.924981]
+    },
+    "properties": {
+      "funs": true,
+      "description": "44",
+      "title": "44",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
     }
   }, {
     "type": "Feature",
@@ -509,7 +561,7 @@
     },
     "properties": {
 
-      "funs": false,
+      "main": true,
       "description": "",
       "title": "ЖК GRAPHITE",
       "marker-size": "small"
