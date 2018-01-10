@@ -53,9 +53,9 @@
       "coordinates": [50.349565, 30.951614]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "5",
       "title": "Школа №1",
       "marker-size": "small",
@@ -68,9 +68,9 @@
       "coordinates": [50.358500, 30.941725]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "6",
       "title": "6",
       "marker-size": "small",
@@ -83,9 +83,9 @@
       "coordinates": [50.363784, 30.944407]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "7",
       "title": "7",
       "marker-size": "small",
@@ -97,9 +97,9 @@
       "coordinates": [50.360830, 30.937226]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "8",
       "title": "8",
       "marker-size": "small",
@@ -112,9 +112,9 @@
       "coordinates": [50.362931, 30.941470]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "9",
       "title": "9",
       "marker-size": "small",
@@ -127,9 +127,9 @@
       "coordinates": [50.351957, 30.953593]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "10",
       "title": "10",
       "marker-size": "small",
@@ -142,9 +142,9 @@
       "coordinates": [50.350680, 30.948574]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "11",
       "title": "Д/с №1",
       "marker-size": "small",
@@ -157,9 +157,9 @@
       "coordinates": [50.350826, 30.945992]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "12",
       "title": "12",
       "marker-size": "small",
@@ -172,9 +172,9 @@
       "coordinates": [50.348358, 30.946959]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "13",
       "title": "13",
       "marker-size": "small",
@@ -187,9 +187,9 @@
       "coordinates": [50.375471, 30.947793]
     },
     "properties": {
-      "flush": false,
+
       "child_ed": true,
-      "funs": false,
+
       "description": "14",
       "title": "14",
       "marker-size": "small",
@@ -203,8 +203,7 @@
     },
     "properties": {
       "flush": true,
-      "child_ed": false,
-      "funs": false,
+
       "description": "16",
       "title": "АТБ-маркет",
       "marker-size": "small",
@@ -218,8 +217,7 @@
     },
     "properties": {
       "flush": true,
-      "child_ed": false,
-      "funs": false,
+
       "description": "17",
       "title": "АТБ-маркет",
       "marker-size": "small",
@@ -233,8 +231,7 @@
     },
     "properties": {
       "flush": true,
-      "child_ed": false,
-      "funs": false,
+
       "description": "18",
       "title": "АТБ-маркет",
       "marker-size": "small",
@@ -248,8 +245,7 @@
     },
     "properties": {
       "flush": true,
-      "child_ed": false,
-      "funs": false,
+
       "description": "19",
       "title": "Billa",
       "marker-size": "small",
@@ -263,8 +259,7 @@
     },
     "properties": {
       "flush": true,
-      "child_ed": false,
-      "funs": false,
+
       "description": "20",
       "title": "АТБ-маркет",
       "marker-size": "small",
@@ -278,8 +273,7 @@
     },
     "properties": {
       "flush": true,
-      "child_ed": false,
-      "funs": false,
+
       "description": "21",
       "title": "Фора",
       "marker-size": "small",
@@ -293,8 +287,7 @@
     },
     "properties": {
       "flush": true,
-      "child_ed": false,
-      "funs": false,
+
       "description": "22",
       "title": "Эко-маркет",
       "marker-size": "small",
@@ -308,8 +301,7 @@
     },
     "properties": {
       "flush": true,
-      "child_ed": false,
-      "funs": false,
+
       "description": "23",
       "title": "Novus",
       "marker-size": "small",
@@ -323,8 +315,7 @@
     },
     "properties": {
       "flush": true,
-      "child_ed": false,
-      "funs": false,
+
       "description": "24",
       "title": "24",
       "marker-size": "small",
