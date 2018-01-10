@@ -207,7 +207,7 @@
       "description": "16",
       "title": "АТБ-маркет",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -221,7 +221,7 @@
       "description": "17",
       "title": "АТБ-маркет",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -235,7 +235,7 @@
       "description": "18",
       "title": "АТБ-маркет",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -249,7 +249,7 @@
       "description": "19",
       "title": "Billa",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -263,7 +263,7 @@
       "description": "20",
       "title": "АТБ-маркет",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -277,7 +277,7 @@
       "description": "21",
       "title": "Фора",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -291,7 +291,7 @@
       "description": "22",
       "title": "Эко-маркет",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -305,7 +305,7 @@
       "description": "23",
       "title": "Novus",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
     }
   }, {
     "type": "Feature",
@@ -329,7 +329,7 @@
     },
     "properties": {
 
-      "funs": false,
+      "flush": true,
       "description": "25",
       "title": "Гастроном `Маяк`",
       "marker-size": "small",
@@ -342,8 +342,7 @@
       "coordinates": [50.349511, 30.953917]
     },
     "properties": {
-
-      "funs": false,
+      "flush": true,
       "description": "26",
       "title": "Магазин Roshen",
       "marker-size": "small",
@@ -353,15 +352,29 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.352859, 30.950472]
+      "coordinates": [50.358546, 30.939853]
     },
     "properties": {
 
-      "funs": true,
-      "description": "Vault toilet",
-      "title": "Scott Creek",
+      "buses": true,
+      "description": "28",
+      "title": "28",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.orgg/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.orgg/img/bus.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.355623, 30.946307]
+    },
+    "properties": {
+
+      "buses": true,
+      "description": "29",
+      "title": "29",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.orgg/img/bus.png"
     }
   }, {
     "type": "Feature",
@@ -371,7 +384,7 @@
     },
     "properties": {
 
-      "funs": true,
+      "flush": true,
       "description": "Vault toilet",
       "title": "Thousand Springs Sno-Park-USFS",
       "marker-size": "small"
