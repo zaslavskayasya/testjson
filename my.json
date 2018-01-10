@@ -244,13 +244,28 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.358605, 30.938699]
+      "coordinates": [50.353376, 30.949904]
     },
     "properties": {
       "flush": true,
       "child_ed": false,
       "vault": false,
-      "description": "16",
+      "description": "19",
+      "title": "Billa",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.350060, 30.952705]
+    },
+    "properties": {
+      "flush": true,
+      "child_ed": false,
+      "vault": false,
+      "description": "20",
       "title": "АТБ-маркет",
       "marker-size": "small",
       "icon" : "http://grafit.php-academy.org/img/shop.png"
@@ -259,14 +274,89 @@
     "type": "Feature",
     "geometry": {
       "type": "Point",
-      "coordinates": [50.35899, 30.938607]
+      "coordinates": [50.362421, 30.940499]
     },
     "properties": {
       "flush": true,
       "child_ed": false,
       "vault": false,
-      "description": "16",
-      "title": "АТБ-маркет",
+      "description": "21",
+      "title": "Фора",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.364047, 30.923857]
+    },
+    "properties": {
+      "flush": true,
+      "child_ed": false,
+      "vault": false,
+      "description": "22",
+      "title": "Эко-маркет",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.363691, 30.920882]
+    },
+    "properties": {
+      "flush": true,
+      "child_ed": false,
+      "vault": false,
+      "description": "23",
+      "title": "Novus",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.358457, 30.938996]
+    },
+    "properties": {
+      "flush": true,
+      "child_ed": false,
+      "vault": false,
+      "description": "24",
+      "title": "24",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.359221, 30.941097]
+    },
+    "properties": {
+      "flush": true,
+      "child_ed": false,
+      "vault": false,
+      "description": "25",
+      "title": "Гастроном `Маяк`",
+      "marker-size": "small",
+      "icon" : "http://grafit.php-academy.org/img/shop.png"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.349511, 30.953917]
+    },
+    "properties": {
+      "flush": true,
+      "child_ed": false,
+      "vault": false,
+      "description": "26",
+      "title": "Магазин Roshen",
       "marker-size": "small",
       "icon" : "http://grafit.php-academy.org/img/shop.png"
     }
