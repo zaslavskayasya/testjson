@@ -13,7 +13,7 @@
       "description": "2",
       "title": "2",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
 
     }
   }, {
@@ -29,7 +29,7 @@
       "description": "3",
       "title": "Школа №6",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
     }
   }, {
     "type": "Feature",
@@ -44,7 +44,7 @@
       "description": "4",
       "title": "4",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
     }
   }, {
     "type": "Feature",
@@ -59,7 +59,7 @@
       "description": "5",
       "title": "Школа №1",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
     }
   }, {
     "type": "Feature",
@@ -74,7 +74,7 @@
       "description": "6",
       "title": "6",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
     }
   }, {
     "type": "Feature",
@@ -89,7 +89,7 @@
       "description": "7",
       "title": "7",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
     } }, {
     "type": "Feature",
     "geometry": {
@@ -103,7 +103,7 @@
       "description": "8",
       "title": "8",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
     }
   },  {
     "type": "Feature",
@@ -118,7 +118,7 @@
       "description": "9",
       "title": "9",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
     }
   }, {
     "type": "Feature",
@@ -133,7 +133,7 @@
       "description": "10",
       "title": "10",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
     }
   }, {
     "type": "Feature",
@@ -148,7 +148,7 @@
       "description": "11",
       "title": "Д/с №1",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
     }
   }, {
     "type": "Feature",
@@ -163,7 +163,7 @@
       "description": "12",
       "title": "12",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
     }
   }, {
     "type": "Feature",
@@ -178,7 +178,7 @@
       "description": "13",
       "title": "13",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
     }
   }, {
     "type": "Feature",
@@ -193,7 +193,7 @@
       "description": "14",
       "title": "14",
       "marker-size": "small",
-      "icon" : "https://zaslavskayasya.github.io/testjson/home.png"
+      "icon" : "http://grafit.php-academy.org/img/home1.png"
     }
   }, {
     "type": "Feature",
@@ -207,7 +207,7 @@
       "description": "16",
       "title": "АТБ-маркет",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart1.png"
     }
   }, {
     "type": "Feature",
@@ -221,7 +221,7 @@
       "description": "17",
       "title": "АТБ-маркет",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart1.png"
     }
   }, {
     "type": "Feature",
@@ -235,7 +235,7 @@
       "description": "18",
       "title": "АТБ-маркет",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart1.png"
     }
   }, {
     "type": "Feature",
@@ -249,7 +249,7 @@
       "description": "19",
       "title": "Billa",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart1.png"
     }
   }, {
     "type": "Feature",
@@ -263,7 +263,7 @@
       "description": "20",
       "title": "АТБ-маркет",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart1.png"
     }
   }, {
     "type": "Feature",
@@ -277,7 +277,7 @@
       "description": "21",
       "title": "Фора",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart1.png"
     }
   }, {
     "type": "Feature",
@@ -291,7 +291,7 @@
       "description": "22",
       "title": "Эко-маркет",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart1.png"
     }
   }, {
     "type": "Feature",
@@ -305,7 +305,7 @@
       "description": "23",
       "title": "Novus",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart1.png"
     }
   }, {
     "type": "Feature",
@@ -319,7 +319,7 @@
       "description": "24",
       "title": "24",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart1.png"
     }
   }, {
     "type": "Feature",
@@ -333,7 +333,7 @@
       "description": "25",
       "title": "Гастроном `Маяк`",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart1.png"
     }
   }, {
     "type": "Feature",
@@ -346,7 +346,7 @@
       "description": "26",
       "title": "Магазин Roshen",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shopping-cart.png"
+      "icon" : "http://grafit.php-academy.org/img/shopping-cart1.png"
     }
   }, {
     "type": "Feature",
@@ -360,7 +360,7 @@
       "description": "28",
       "title": "28",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/bus.png"
+      "icon" : "http://grafit.php-academy.org/img/bus1.png"
     }
   }, {
     "type": "Feature",
@@ -374,7 +374,7 @@
       "description": "29",
       "title": "29",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/bus.png"
+      "icon" : "http://grafit.php-academy.org/img/bus1.png"
     }
   }, {
     "type": "Feature",
@@ -388,7 +388,7 @@
       "description": "31",
       "title": "31",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+      "icon" : "http://grafit.php-academy.org/img/house-reforms1.png"
     }
   }, {
     "type": "Feature",
@@ -402,7 +402,7 @@
       "description": "32",
       "title": "32",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+      "icon" : "http://grafit.php-academy.org/img/house-reforms1.png"
     }
   }, {
     "type": "Feature",
@@ -416,7 +416,7 @@
       "description": "33",
       "title": "33",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+      "icon" : "http://grafit.php-academy.org/img/house-reforms1.png"
     }
   }, {
     "type": "Feature",
@@ -430,7 +430,7 @@
       "description": "34",
       "title": "34",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+      "icon" : "http://grafit.php-academy.org/img/house-reforms1.png"
     }
   }, {
     "type": "Feature",
@@ -444,7 +444,7 @@
       "description": "35",
       "title": "35",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+      "icon" : "http://grafit.php-academy.org/img/house-reforms1.png"
     }
   }, {
     "type": "Feature",
@@ -458,7 +458,7 @@
       "description": "36",
       "title": "36",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+      "icon" : "http://grafit.php-academy.org/img/house-reforms1.png"
     }
   }, {
     "type": "Feature",
@@ -472,7 +472,7 @@
       "description": "37",
       "title": "37",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+      "icon" : "http://grafit.php-academy.org/img/house-reforms1.png"
     }
   }, {
     "type": "Feature",
@@ -486,7 +486,7 @@
       "description": "38",
       "title": "38",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/house-reforms.png"
+      "icon" : "http://grafit.php-academy.org/img/house-reforms1.png"
     }
   }, {
     "type": "Feature",
@@ -499,7 +499,7 @@
       "description": "40",
       "title": "ТЦ `Park Town`",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shop1.png"
     }
   }, {
     "type": "Feature",
@@ -512,7 +512,7 @@
       "description": "41",
       "title": "ТЦ `Mix Mall`",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shop1.png"
     }
   }, {
     "type": "Feature",
@@ -525,7 +525,7 @@
       "description": "42",
       "title": "42",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shop1.png"
     }
   }, {
     "type": "Feature",
@@ -538,7 +538,7 @@
       "description": "43",
       "title": "ТЦ `Park Town`",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shop1.png"
     }
   }, {
     "type": "Feature",
@@ -551,7 +551,7 @@
       "description": "44",
       "title": "44",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/shop.png"
+      "icon" : "http://grafit.php-academy.org/img/shop1.png"
     }
   }, {
     "type": "Feature",
@@ -564,7 +564,7 @@
       "description": "46",
       "title": "46",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -573,18 +573,12 @@
       "coordinates": [50.345990, 30.946130]
     },
     "properties": {
-      "child_ed" :false,
-      "funs" :false,
-      "flush":false,
-      "buses": false,
-      "services": false,
-      "rest":false,
-      "banks": false,
+
       "med": true,
       "description": "47",
       "title": "47",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -593,18 +587,12 @@
       "coordinates": [50.348469, 30.947733]
     },
     "properties": {
-      "child_ed" :false,
-      "funs" :false,
-      "flush":false,
-      "buses": false,
-      "services": false,
-      "rest":false,
-      "banks": false,
+
       "med": true,
       "description": "48",
       "title": "48",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -613,18 +601,12 @@
       "coordinates": [50.356289, 30.944075]
     },
     "properties": {
-      "child_ed" :false,
-      "funs" :false,
-      "flush":false,
-      "buses": false,
-      "services": false,
-      "rest":false,
-      "banks": false,
+
       "med": true,
       "description": "49",
       "title": "49",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -644,7 +626,7 @@
       "description": "50",
       "title": "Аптека",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -664,7 +646,7 @@
       "description": "51",
       "title": "Аптека",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -684,7 +666,7 @@
       "description": "52",
       "title": "Аптека",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -704,7 +686,7 @@
       "description": "53",
       "title": "Аптека",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -724,7 +706,7 @@
       "description": "54",
       "title": "Аптека",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -744,7 +726,7 @@
       "description": "55",
       "title": "Аптека",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -764,7 +746,7 @@
       "description": "56",
       "title": "56",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -784,7 +766,7 @@
       "description": "57",
       "title": "Аптека",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -804,7 +786,7 @@
       "description": "58",
       "title": "58",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -824,7 +806,7 @@
       "description": "59",
       "title": "59",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -844,7 +826,7 @@
       "description": "60",
       "title": "60",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/medicine.png"
+      "icon" : "http://grafit.php-academy.org/img/medicine1.png"
     }
   }, {
     "type": "Feature",
@@ -864,7 +846,7 @@
       "description": "62",
       "title": "62",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/tree.png"
+      "icon" : "http://grafit.php-academy.org/img/tree1.png"
     }
   }, {
     "type": "Feature",
@@ -884,7 +866,7 @@
       "description": "63",
       "title": "63",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/tree.png"
+      "icon" : "http://grafit.php-academy.org/img/tree1.png"
     }
   }, {
     "type": "Feature",
@@ -904,7 +886,7 @@
       "description": "64",
       "title": "64",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/tree.png"
+      "icon" : "http://grafit.php-academy.org/img/tree1.png"
     }
   }, {
     "type": "Feature",
@@ -917,7 +899,7 @@
       "description": "66",
       "title": "66",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/bank.png"
+      "icon" : "http://grafit.php-academy.org/img/bank1.png"
     }
   }, {
     "type": "Feature",
@@ -930,7 +912,7 @@
       "description": "67",
       "title": "`НП` №2",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/bank.png"
+      "icon" : "http://grafit.php-academy.org/img/bank1.png"
     }
   }, {
     "type": "Feature",
@@ -943,7 +925,7 @@
       "description": "68",
       "title": "`НП` №4",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/bank.png"
+      "icon" : "http://grafit.php-academy.org/img/bank1.png"
     }
   }, {
     "type": "Feature",
@@ -957,7 +939,7 @@
       "description": "69",
       "title": "`НП` №7",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/bank.png"
+      "icon" : "http://grafit.php-academy.org/img/bank1.png"
     }
   }, {
     "type": "Feature",
@@ -970,7 +952,7 @@
       "description": "70",
       "title": "`Ощадбанк`",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/bank.png"
+      "icon" : "http://grafit.php-academy.org/img/bank1.png"
     }
   }, {
     "type": "Feature",
@@ -983,7 +965,7 @@
       "description": "71",
       "title": "`Приватбанк`",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/bank.png"
+      "icon" : "http://grafit.php-academy.org/img/bank1.png"
     }
 
   }, {
@@ -997,7 +979,7 @@
       "description": "72",
       "title": "`Укрсоцбанк`",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/bank.png"
+      "icon" : "http://grafit.php-academy.org/img/bank1.png"
     }
   }, {
     "type": "Feature",
@@ -1010,7 +992,7 @@
       "description": "73",
       "title": "`Укрсиббанк`",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/bank.png"
+      "icon" : "http://grafit.php-academy.org/img/bank1.png"
     }
   }, {
     "type": "Feature",
@@ -1023,7 +1005,7 @@
       "description": "74",
       "title": "`Райффайзенбанк-Аваль`",
       "marker-size": "small",
-      "icon" : "http://grafit.php-academy.org/img/bank.png"
+      "icon" : "http://grafit.php-academy.org/img/bank1.png"
     }
   }, {
     "type": "Feature",
@@ -1036,7 +1018,7 @@
       "description": "75",
       "title": "`Райффайзенбанк-Аваль`",
       "marker-size": "`Укргазбанк`",
-      "icon" : "http://grafit.php-academy.org/img/bank.png"
+      "icon" : "http://grafit.php-academy.org/img/bank1.png"
     }
   }, {
     "type": "Feature",
